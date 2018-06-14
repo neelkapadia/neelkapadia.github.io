@@ -78,7 +78,7 @@ a:focus, a:hover {
 }
 .col-md-6.w3-banner-grid-right{
     width: 50%;
-    float: left;
+    text-align:justify;
 }
 .w3-banner-img {
     text-align: center;
@@ -111,7 +111,7 @@ ul.address li ul.agileits-address-text li:nth-child(1) {
     list-style-type: none;
 }
 .w3-banner-text p {
-    width: 50%;
+    width: 75%;
 }
 ul.agileits-address-text li a {
     color:rgba(255, 255, 255, 0.76);
@@ -636,7 +636,7 @@ li.agile-it-adress-left b {
 }
 .w3-about-grid-left2 h4 a {
     color: #fff;
-	letter-spacing: 1px;
+		letter-spacing: 1px;
     text-transform: uppercase;
 }
 h3.w3-head-project {
@@ -672,24 +672,23 @@ h3.w3-head-project {
     font-family: 'Yanone Kaffeesatz', sans-serif;
 }
 .w3-edu-info2 span {
-    margin-left: 1.5em;
+    margin-left: 1em;
     color:#212121;
     text-transform: capitalize;
     background: #F09819;
     background: -webkit-linear-gradient(to right, #EDDE5D, #F09819);
     background: linear-gradient(to right, #EDDE5D, #F09819);
-    padding: 0.3em;
-	text-transform: capitalize;
+    padding: 0.5em;
 }
 .w3-edu-info1 h4 {
     text-transform: capitalize;
     color: #dcad3f;
-	letter-spacing: 2px;
+		letter-spacing: 2px;
     font-family: 'Yanone Kaffeesatz', sans-serif;
 }
 .w3-edu-grid-header h3 {
-       color: #00bcd4;
-    font-size: 3em;
+       	color: #00bcd4;
+    		font-size: 3em;
         font-family: 'Poppins', sans-serif;
 
 }
@@ -724,11 +723,12 @@ i.fa.fa-users,i.fa.fa-code,i.fa.fa-laptop{
     font-size: 1.5em;
 }
 .w3-edu-info-right2 p {
-       color: #8a8a8a;
-    font-size: 1em;
-    line-height: 1.8em;
-    letter-spacing: 1px;
-	width: 59%;
+      color: #8a8a8a;
+    	font-size: 1em;
+    	line-height: 1.8em;
+    	letter-spacing: 1px;
+			width: 80%;
+			text-align:left;
 }
 /*-- skills --*/
 .skills{
