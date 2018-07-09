@@ -77,7 +77,7 @@ a:focus, a:hover {
     float: left;
 }
 .col-md-6.w3-banner-grid-right{
-    width: 50%;
+    width: 46.5%;
     text-align:justify;
 }
 .w3-banner-img {
@@ -150,7 +150,7 @@ ul.agileits-address-text li span {
 .w3-banner-img {
   border: 5px solid rgba(238, 238, 238, 0.53);
     width: 400px;
-    height: 400px;
+    height: 460px;
     padding: 63px;
     margin: 0 auto;
 }
@@ -571,7 +571,7 @@ li.agile-it-adress-left b {
 /*-- banner --*/
 /*-- about --*/
 .w3-about-grid-left1 img {
-    width: 100%;
+    width: 70%;
 }
 .w3-about-grid-right2 img {
     width: 100%;
@@ -631,6 +631,13 @@ li.agile-it-adress-left b {
     margin: 2em 0 0 0;
     font-family: 'Yanone Kaffeesatz', sans-serif;
 }
+.w3-about-grid-left2 h5 {w3-edu-info2
+    font-size: 1.3em;
+    color:#00bcd4;
+  text-transform: capitalize;
+      letter-spacing: 2px;
+    font-family: 'Yanone Kaffeesatz', sans-serif;
+}
 .w3-about-grid-left2 {
     margin: 7em 0 0 0;
 }
@@ -672,18 +679,18 @@ h3.w3-head-project {
     font-family: 'Yanone Kaffeesatz', sans-serif;
 }
 .w3-edu-info2 span {
-    margin-left: 1em;
-    color:#212121;
-    text-transform: capitalize;
-    background: #F09819;
-    background: -webkit-linear-gradient(to right, #EDDE5D, #F09819);
-    background: linear-gradient(to right, #EDDE5D, #F09819);
-    padding: 0.5em;
+  font-size: 1.15em;
+    color:#dcad3f;
 }
 .w3-edu-info1 h4 {
     text-transform: capitalize;
     color: #dcad3f;
 		letter-spacing: 2px;
+    font-family: 'Yanone Kaffeesatz', sans-serif;
+}
+.w3-edu-info1 p {
+    color: white;
+    font-size: 1.15em;
     font-family: 'Yanone Kaffeesatz', sans-serif;
 }
 .w3-edu-grid-header h3 {
@@ -710,6 +717,9 @@ h3.w3-head-project {
 	text-transform:capitalize;
 	letter-spacing: 2px;
     font-family: 'Yanone Kaffeesatz', sans-serif;
+}
+.w3-edu-info2 h6 {
+  color: #8a8a8a;
 }
 .w3-edu-info2 p {
     color: #8a8a8a;
@@ -1347,7 +1357,7 @@ h4.modal-title {
     float: left;
 	}
 	.col-md-6.w3-about-grid-right1 {
-    width: 60%;
+    width: 55%;
     float: left;
 	}
 	.w3-about-grid-small {
