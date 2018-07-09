@@ -1,2 +1,0 @@
-# neelkapadia.github.io
-Portfolio
