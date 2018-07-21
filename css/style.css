@@ -103,8 +103,8 @@ ul.address li ul.agileits-address-text li:nth-child(1) {
     padding: 9em 0 0 0;
 }
 .w3-banner-img img {
-    width: 133px;
-    height: 133px;
+    width: 150px;
+    height: 150px;
     border-radius: 50%;
 }
 .w3-right-addres-1 li {
@@ -118,7 +118,7 @@ ul.agileits-address-text li a {
 }
 .w3-banner-img h3 {
     color: #fff;
-    font-size: 2.8em;
+    font-size: 2.4em;
     font-weight: 600;
     text-transform: uppercase;
         letter-spacing:1px;
@@ -150,7 +150,7 @@ ul.agileits-address-text li span {
 .w3-banner-img {
   border: 5px solid rgba(238, 238, 238, 0.53);
     width: 400px;
-    height: 460px;
+    height: 450px;
     padding: 63px;
     margin: 0 auto;
 }
